@@ -24,6 +24,7 @@ def literal_aoh
        ]
        
        
+def aoh_lookup(aoh, row, key)
               # Using Array literal syntax only, build a nested array that uses the data in
                # held in the constants
 end
